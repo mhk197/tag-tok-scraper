@@ -1,0 +1,1 @@
+URL_TAG_BASE = "https://www.tiktok.com/tag/"
